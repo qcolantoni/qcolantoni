@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @qcolantoni
-- 👀 I’m interested in computer hacking
+- 👀 I’m interested in RAW
 - 🌱 I’m currently learning assembly
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me: cantrememberthemagicwords@gmail.com
